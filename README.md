@@ -50,6 +50,9 @@
   - Implemented microservice-based CI/CD pipelines using GitLab CI/CD.
   - Developed RESTful APIs using Spring WebFlux and WebClient.
   - Built responsive UI components and services using Vue.js, Vite, and TypeScript.
+- **Project Links:**
+  - [나무기술 M-CMP](https://www.namutech.co.kr/solution/cloud/smart-dx/)
+  - [클라우드 바리스타](https://cloud-barista.github.io/)   
 
 ### 🤖 AI Data Infrastructure Projects (2021 - 2023)
 - **Technologies:** Docker, Kubernetes, JupyterHub, GitLab, FastAPI, Django, Pandas, XGBoost, LGBM, CatBoost
@@ -57,9 +60,16 @@
   - Designed and implemented data pipelines for multi-modal datasets.
   - Established scalable Docker-based model training environments.
   - Managed GPU resources (NVIDIA A100) to support high-performance computations.
+- **Project Links:**
+  - [순음청력검사 데이터](https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=482)
+  - [난청 검사 음성 데이터](https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71393)
+  - [고막 내시경 검사 이미지 데이터](https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71551)
+  - [만성콩팥병 및 합병증 임상 데이터](https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71334)
+  - [만성질환 관련 임상 및 생활습관 데이터](https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71345)
+
 
 ### 📈 Dynamic CRM Integrated Financial & Project Management (2025)
-- **Technologies:** Azure Dynamic CRM, ASP, IIS, Jira
+- **Technologies:** Azure Dynamic CRM, ASP, IIS
 - **Key Contributions:**
   - Developed a unified management system for finance and project schedules.
   - Implemented HTTP helper functions and OData query structures.
