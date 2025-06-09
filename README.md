@@ -65,7 +65,7 @@
   - [난청 검사 음성 데이터](https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71393)
   - [고막 내시경 검사 이미지 데이터](https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71551)
   - [만성콩팥병 및 합병증 임상 데이터](https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71334)
-  - [만성질환 관련 임상 및 생활습관 데이터](https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71345)
+  - [만성질환 관련 임상 및 생활습관 데이터](https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71335)
 
 
 ### 📈 Dynamic CRM Integrated Financial & Project Management (2025)
