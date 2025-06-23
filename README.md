@@ -19,10 +19,10 @@
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- Python, Java, Go, JavaScript (TypeScript, Vue.js), Shell Script
+- Java, JavaScript (TypeScript, Vue.js), Shell Script, Python, Go
 
 ### DevOps & Infrastructure
-- Docker, Kubernetes, GitLab CI/CD, GitHub Actions, Terraform, Ansible
+- Docker, Kubernetes, Openstack,  GitLab CI/CD, GitHub Actions, Terraform, Ansible
 
 ### Web Frameworks
 - Spring Boot, FastAPI, Express, Django
@@ -31,7 +31,7 @@
 - PostgreSQL, MariaDB, Redis
 
 ### Data Engineering
-- SQL, Pandas, Apache Airflow
+- SQL, Pandas, Apache Airflow, Apache Kafka
 
 ### AI & Machine Learning
 - PyTorch (CNN - YOLO, Paddle; ML - XGBoost, LGBM, CatBoost)
